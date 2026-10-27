@@ -66,6 +66,8 @@ Tools that present themselves as a validator, converter or API. **Not a ranking.
 
 - [einvoicevalidator.eu](https://einvoicevalidator.eu/en) — H1 « E-invoice validator. Free, no sign-up. » ; title « E-Invoice Validator: check XRechnung & ZUGFeRD free » ; page states « Check XRechnung, ZUGFeRD/Factur-X, Peppol BIS 3.0 and UBL 2.1 against EN 16931 ». UI in 8 languages. Price [non-mesure].
 
+- [erechnungswandler.de](https://erechnungswandler.de/) — H1 « E-Rechnung prüfen, bevor der Kunde sie ablehnt. » ; title « E-Rechnung prüfen: XRechnung und ZUGFeRD Validator, kostenlos | E-Rechnungswandler » ; page states « Die Prüfung läuft in Ihrem Browser. Es wird nichts hochgeladen. » Price [non-mesure]. *(submitted by the site's operator)*
+
 - [Factur-X Validator & Generator (Apify Actor `rigel/facturx-toolkit`)](https://apify.com/rigel/facturx-toolkit) — H1 « Factur-X Validator & Generator: ZUGFeRD, EN 16931, FR 2026 » ; description « Validate Factur-X/ZUGFeRD invoices (XSD, official schematrons, French 2026 BR-FR rules, PDF/A-3), extract them to JSON, generate PDF/A-3 Factur-X with totals and French legal notes, or convert a plain PDF invoice (OCR included). » ; page states « Not an approved platform (PA) ». Pricing: « Pay per event, in USD. » ; `document-validated` « $0.015 ». *(submitted by the Actor's author)*
 
 - [FactureValide](https://facturevalide.fr/) — H1 « Votre facture valide en 2 minutes. Point. » ; « Gratuit pendant le lancement » ; « Sans limite · Sans carte bancaire ». Validator [`/valider-facture-electronique.html`](https://facturevalide.fr/valider-facture-electronique.html): « 10 vérifications/jour » ; « 31 points de contrôle ». `/tarifs` and `/tarifs.html` = **404**.
